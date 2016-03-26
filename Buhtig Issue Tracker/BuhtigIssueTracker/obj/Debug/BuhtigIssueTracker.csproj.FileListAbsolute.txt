@@ -1,0 +1,11 @@
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\HQC\Buhtig Issue Tracker_Скелет\BuhtigIssueTracker\bin\Debug\BuhtigIssueTracker.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\HQC\Buhtig Issue Tracker_Скелет\BuhtigIssueTracker\bin\Debug\BuhtigIssueTracker.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\HQC\Buhtig Issue Tracker_Скелет\BuhtigIssueTracker\bin\Debug\BuhtigIssueTracker.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\HQC\Buhtig Issue Tracker_Скелет\BuhtigIssueTracker\bin\Debug\PowerCollections.dll
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\HQC\Buhtig Issue Tracker_Скелет\BuhtigIssueTracker\bin\Debug\PowerCollections.xml
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\HQC\Buhtig Issue Tracker_Скелет\BuhtigIssueTracker\obj\Debug\BuhtigIssueTracker.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\HQC\Buhtig Issue Tracker_Скелет\BuhtigIssueTracker\obj\Debug\BuhtigIssueTracker.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\HQC\Buhtig Issue Tracker_Скелет\BuhtigIssueTracker\obj\Debug\BuhtigIssueTracker.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\HQC\Buhtig Issue Tracker\BuhtigIssueTracker\bin\Debug\BuhtigIssueTracker.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\HQC\Buhtig Issue Tracker\BuhtigIssueTracker\obj\Debug\BuhtigIssueTracker.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\HQC\Buhtig Issue Tracker\BuhtigIssueTracker\obj\Debug\BuhtigIssueTracker.pdb

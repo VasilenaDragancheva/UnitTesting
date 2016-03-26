@@ -1,0 +1,9 @@
+C:\Users\User-01\Desktop\BangaloreUniversityLearningSystem-Skeleton\UniversityLearningSystem\bin\Debug\UniversityLearningSystem.exe.config
+C:\Users\User-01\Desktop\BangaloreUniversityLearningSystem-Skeleton\UniversityLearningSystem\bin\Debug\UniversityLearningSystem.exe
+C:\Users\User-01\Desktop\BangaloreUniversityLearningSystem-Skeleton\UniversityLearningSystem\bin\Debug\UniversityLearningSystem.pdb
+C:\Users\User-01\Desktop\BangaloreUniversityLearningSystem-Skeleton\UniversityLearningSystem\obj\Debug\UniversityLearningSystem.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Desktop\BangaloreUniversityLearningSystem-Skeleton\UniversityLearningSystem\obj\Debug\UniversityLearningSystem.exe
+C:\Users\User-01\Desktop\BangaloreUniversityLearningSystem-Skeleton\UniversityLearningSystem\obj\Debug\UniversityLearningSystem.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\HQC\BangaloreUniversityLearningSystem\UniversityLearningSystem\bin\Debug\UniversityLearningSystem.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\HQC\BangaloreUniversityLearningSystem\UniversityLearningSystem\obj\Debug\UniversityLearningSystem.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\HQC\BangaloreUniversityLearningSystem\UniversityLearningSystem\obj\Debug\UniversityLearningSystem.pdb

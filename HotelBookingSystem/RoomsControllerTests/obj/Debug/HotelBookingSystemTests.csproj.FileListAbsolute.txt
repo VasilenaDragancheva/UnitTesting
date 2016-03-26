@@ -1,0 +1,9 @@
+C:\Users\User-01\Documents\Projects\HotelBookingSystem\RoomsControllerTests\bin\Debug\RoomsControllerTests.dll
+C:\Users\User-01\Documents\Projects\HotelBookingSystem\RoomsControllerTests\bin\Debug\RoomsControllerTests.pdb
+C:\Users\User-01\Documents\Projects\HotelBookingSystem\RoomsControllerTests\bin\Debug\HotelBookingSystem.exe
+C:\Users\User-01\Documents\Projects\HotelBookingSystem\RoomsControllerTests\bin\Debug\HotelBookingSystem.pdb
+C:\Users\User-01\Documents\Projects\HotelBookingSystem\RoomsControllerTests\obj\Debug\HotelBookingSystemTests.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Documents\Projects\HotelBookingSystem\RoomsControllerTests\obj\Debug\RoomsControllerTests.dll
+C:\Users\User-01\Documents\Projects\HotelBookingSystem\RoomsControllerTests\obj\Debug\RoomsControllerTests.pdb
+C:\Users\User-01\Documents\Projects\HotelBookingSystem\RoomsControllerTests\bin\Debug\Moq.dll
+C:\Users\User-01\Documents\Projects\HotelBookingSystem\RoomsControllerTests\bin\Debug\Moq.xml

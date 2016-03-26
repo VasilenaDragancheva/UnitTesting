@@ -1,0 +1,9 @@
+C:\Users\User-01\Desktop\BoatRacingSimulator_Скелет\BoatRacingSimulatorTests\bin\Debug\BoatRacingSimulatorTests.dll
+C:\Users\User-01\Desktop\BoatRacingSimulator_Скелет\BoatRacingSimulatorTests\bin\Debug\BoatRacingSimulatorTests.pdb
+C:\Users\User-01\Desktop\BoatRacingSimulator_Скелет\BoatRacingSimulatorTests\bin\Debug\BoatRacingSimulator.exe
+C:\Users\User-01\Desktop\BoatRacingSimulator_Скелет\BoatRacingSimulatorTests\bin\Debug\Moq.dll
+C:\Users\User-01\Desktop\BoatRacingSimulator_Скелет\BoatRacingSimulatorTests\bin\Debug\BoatRacingSimulator.pdb
+C:\Users\User-01\Desktop\BoatRacingSimulator_Скелет\BoatRacingSimulatorTests\bin\Debug\Moq.xml
+C:\Users\User-01\Desktop\BoatRacingSimulator_Скелет\BoatRacingSimulatorTests\obj\Debug\BoatRacingSimulatorTests.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Desktop\BoatRacingSimulator_Скелет\BoatRacingSimulatorTests\obj\Debug\BoatRacingSimulatorTests.dll
+C:\Users\User-01\Desktop\BoatRacingSimulator_Скелет\BoatRacingSimulatorTests\obj\Debug\BoatRacingSimulatorTests.pdb

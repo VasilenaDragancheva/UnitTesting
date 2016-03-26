@@ -1,0 +1,9 @@
+C:\Users\User-01\Desktop\Air Conditioner Testing System_Skeleton\AirConditionerTestingSystem\bin\Debug\AirConditionerTestingSystem.exe.config
+C:\Users\User-01\Desktop\Air Conditioner Testing System_Skeleton\AirConditionerTestingSystem\bin\Debug\AirConditionerTestingSystem.exe
+C:\Users\User-01\Desktop\Air Conditioner Testing System_Skeleton\AirConditionerTestingSystem\bin\Debug\AirConditionerTestingSystem.pdb
+C:\Users\User-01\Desktop\Air Conditioner Testing System_Skeleton\AirConditionerTestingSystem\obj\Debug\AirConditionerTestingSystem.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Desktop\Air Conditioner Testing System_Skeleton\AirConditionerTestingSystem\obj\Debug\AirConditionerTestingSystem.exe
+C:\Users\User-01\Desktop\Air Conditioner Testing System_Skeleton\AirConditionerTestingSystem\obj\Debug\AirConditionerTestingSystem.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\HQC\AirConditionTestingSystem\AirConditionerTestingSystem\bin\Debug\AirConditionerTestingSystem.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\HQC\AirConditionTestingSystem\AirConditionerTestingSystem\obj\Debug\AirConditionerTestingSystem.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\HQC\AirConditionTestingSystem\AirConditionerTestingSystem\obj\Debug\AirConditionerTestingSystem.pdb

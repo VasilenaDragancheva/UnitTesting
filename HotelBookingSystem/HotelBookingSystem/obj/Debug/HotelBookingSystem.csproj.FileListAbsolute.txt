@@ -1,0 +1,9 @@
+C:\Users\User-01\Documents\Projects\HotelBookingSystem\HotelBookingSystem\bin\Debug\HotelBookingSystem.exe.config
+C:\Users\User-01\Documents\Projects\HotelBookingSystem\HotelBookingSystem\bin\Debug\HotelBookingSystem.exe
+C:\Users\User-01\Documents\Projects\HotelBookingSystem\HotelBookingSystem\bin\Debug\HotelBookingSystem.pdb
+C:\Users\User-01\Documents\Projects\HotelBookingSystem\HotelBookingSystem\obj\Debug\HotelBookingSystem.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Documents\Projects\HotelBookingSystem\HotelBookingSystem\obj\Debug\HotelBookingSystem.exe
+C:\Users\User-01\Documents\Projects\HotelBookingSystem\HotelBookingSystem\obj\Debug\HotelBookingSystem.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\HQC\HotelBookingSystem\HotelBookingSystem\bin\Debug\HotelBookingSystem.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\HQC\HotelBookingSystem\HotelBookingSystem\obj\Debug\HotelBookingSystem.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\HQC\HotelBookingSystem\HotelBookingSystem\obj\Debug\HotelBookingSystem.pdb

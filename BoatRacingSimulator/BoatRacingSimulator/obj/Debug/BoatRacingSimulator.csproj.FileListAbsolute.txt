@@ -1,0 +1,15 @@
+G:\SoftUni\SoftUni Work\test\Boat Racing\BoatRacingSimulatorBroken\BoatRacingSimulator\BoatRacingSimulator\bin\Debug\BoatRacingSimulator.exe.config
+G:\SoftUni\SoftUni Work\test\Boat Racing\BoatRacingSimulatorBroken\BoatRacingSimulator\BoatRacingSimulator\bin\Debug\BoatRacingSimulator.exe
+G:\SoftUni\SoftUni Work\test\Boat Racing\BoatRacingSimulatorBroken\BoatRacingSimulator\BoatRacingSimulator\bin\Debug\BoatRacingSimulator.pdb
+G:\SoftUni\SoftUni Work\test\Boat Racing\BoatRacingSimulatorBroken\BoatRacingSimulator\BoatRacingSimulator\obj\Debug\BoatRacingSimulator.csprojResolveAssemblyReference.cache
+G:\SoftUni\SoftUni Work\test\Boat Racing\BoatRacingSimulatorBroken\BoatRacingSimulator\BoatRacingSimulator\obj\Debug\BoatRacingSimulator.exe
+G:\SoftUni\SoftUni Work\test\Boat Racing\BoatRacingSimulatorBroken\BoatRacingSimulator\BoatRacingSimulator\obj\Debug\BoatRacingSimulator.pdb
+C:\Users\User-01\Desktop\BoatRacingSimulator_Скелет\BoatRacingSimulator\bin\Debug\BoatRacingSimulator.exe.config
+C:\Users\User-01\Desktop\BoatRacingSimulator_Скелет\BoatRacingSimulator\obj\Debug\BoatRacingSimulator.exe
+C:\Users\User-01\Desktop\BoatRacingSimulator_Скелет\BoatRacingSimulator\obj\Debug\BoatRacingSimulator.pdb
+C:\Users\User-01\Desktop\BoatRacingSimulator_Скелет\BoatRacingSimulator\obj\Debug\BoatRacingSimulator.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Desktop\BoatRacingSimulator_Скелет\BoatRacingSimulator\bin\Debug\BoatRacingSimulator.exe
+C:\Users\User-01\Desktop\BoatRacingSimulator_Скелет\BoatRacingSimulator\bin\Debug\BoatRacingSimulator.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\HQC\BoatRacingSimulator\BoatRacingSimulator\bin\Debug\BoatRacingSimulator.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\HQC\BoatRacingSimulator\BoatRacingSimulator\obj\Debug\BoatRacingSimulator.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\HQC\BoatRacingSimulator\BoatRacingSimulator\obj\Debug\BoatRacingSimulator.pdb
